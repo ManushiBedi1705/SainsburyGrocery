@@ -1,4 +1,4 @@
-# SainsburyGrocery- Sainsbury’s Software Engineering Test 
+ # SainsburyGrocery- Sainsbury’s Software Engineering Test 
 Problem Statement:  Build a console application that scrapes the Sainsbury’s grocery site - Ripe Fruits page and returns a JSON array of all the products on the page.
 
 # List of tools and libraries used:
@@ -10,7 +10,7 @@ Problem Statement:  Build a console application that scrapes the Sainsbury’s g
 5. json-simple-1.1.1.jar
 6. jsoup-1.10.2.jar
 7. junit-4.12.jar
-8.log4j-1.2.17.jar
+8. log4j-1.2.17.jar
 9. mockito-core-1.9.5.jar
 10. objenesis-1.4.jar
 11. spring-aop-4.3.6.RELEASE.jar
@@ -19,9 +19,9 @@ Problem Statement:  Build a console application that scrapes the Sainsbury’s g
 14. spring-context-4.3.6.RELEASE.jar
 15. spring-core-4.3.6.RELEASE.jar
 16. spring-expression-4.3.6.RELEASE.jar
-17. 18. spring-web-4.3.6.RELEASE.jar
-19. spring-webmvc-4.3.6.RELEASE.jar
-20. spring-webmvc-portlet-4.3.6.RELEASE.jar
+17. spring-web-4.3.6.RELEASE.jar
+18. spring-webmvc-4.3.6.RELEASE.jar
+19. spring-webmvc-portlet-4.3.6.RELEASE.jar
 
 # Tools used:
 1. Eclipse Version: Luna Release (4.4.0)
